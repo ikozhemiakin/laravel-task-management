@@ -2,8 +2,6 @@
 
 Laravel app: **projects**, **tasks**, global **priority** ordering, drag-and-drop reorder, project filter.
 
-**Repo:** [github.com/ikozhemiakin/laravel-task-management](https://github.com/ikozhemiakin/laravel-task-management)
-
 ## Features
 
 - Projects & tasks CRUD (Blade)
